@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d25231dff034cfbb41ce47af1aca3dd, type: 3}
+  m_Name: Cyclone
+  m_EditorClassIdentifier: 
+  cardCost: 2
+  cardImage: {fileID: 6689568851288296880, guid: facea8c454b4db441a0238508b8f4f28,
+    type: 3}
+  SpellIndex: 1
